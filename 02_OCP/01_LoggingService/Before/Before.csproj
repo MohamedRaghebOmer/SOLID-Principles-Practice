@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B0A8FDC1-7250-433F-8D26-2FF145D12F11}</ProjectGuid>
+    <ProjectGuid>{55D4AF19-4F4E-42A5-A8A3-004FEC1087FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02_LoggingService_After</RootNamespace>
-    <AssemblyName>02_LoggingService-After</AssemblyName>
+    <RootNamespace>_01_LoggingService_Before</RootNamespace>
+    <AssemblyName>01_LoggingService-Before</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Before.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

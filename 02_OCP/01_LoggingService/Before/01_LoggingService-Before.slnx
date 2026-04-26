@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../01_LoggingService/02_LoggingService-After/02_LoggingService-After.csproj" />
-  <Project Path="01_LoggingService-Before.csproj" />
-</Solution>

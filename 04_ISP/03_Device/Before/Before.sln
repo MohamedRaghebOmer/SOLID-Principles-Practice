@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
 VisualStudioVersion = 18.5.11716.220 stable
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5 - Violating ISP - Device", "Ex5 - Violating ISP - Device.csproj", "{3251D4AE-2B27-4D17-91D4-1796E0B441D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5 - Violating ISP - Device", "Before.csproj", "{3251D4AE-2B27-4D17-91D4-1796E0B441D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After", "..\After\After.csproj", "{53C12487-6F23-4D76-8E38-5E1E309324FF}"
 EndProject
