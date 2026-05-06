@@ -1,6 +1,6 @@
 # 📘 SOLID-Principles-Practice
 
-A practical workspace for implementing and reinforcing the **SOLID Principles** through hands-on coding exercises.
+A practical workspace for implementing and reinforcing the **SOLID Principles** through hands-on coding exercises. 
 
 ## 🧭 About Repository
 
